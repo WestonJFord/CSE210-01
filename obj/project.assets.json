@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Documents\\BYUI 2022 Fall\\Programming With Classes\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Documents\\BYUI\\BYUI 2022 Fall\\Programming With Classes\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "D:\\OneDrive\\Documents\\BYUI 2022 Fall\\Programming With Classes\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "D:\\OneDrive\\Documents\\BYUI\\BYUI 2022 Fall\\Programming With Classes\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\westo\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Documents\\BYUI 2022 Fall\\Programming With Classes\\TicTacToe\\obj\\",
+      "outputPath": "D:\\OneDrive\\Documents\\BYUI\\BYUI 2022 Fall\\Programming With Classes\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\westo\\AppData\\Roaming\\NuGet\\NuGet.Config"
